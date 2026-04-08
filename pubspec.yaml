@@ -1,0 +1,52 @@
+name: shopping_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^3.3.1
+  riverpod_annotation: ^4.0.2
+  riverpod_generator: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.13.1
+
+flutter:
+  uses-material-design: true
+
+  # The assets section MUST be indented by two spaces under 'flutter'
+  assets:
+    - assets/png1.png
+    - assets/png2.png
+    - assets/png3.png
+    - assets/png4.png
+    - assets/png5.png
+    - assets/png6.png
+    - assets/png7.png
+    - assets/png8.png
+    - assets/png9.png
+    - assets/png10.png
+    - assets/png11.png
+    - assets/png12.png
+    - assets/png13.png
+    - assets/png14.png
+    - assets/png15.png
+    - assets/png16.png
+    - assets/png17.png
+    - assets/png18.png
+    - assets/png19.png
+    - assets/png20.png
+    - assets/png21.png
+    - assets/png22.png
+    - assets/png23.png
+    - assets/emptyCart.png
